@@ -1,7 +1,7 @@
 # Hi, I'm Manohar 👋🏼
 A Deep learning enthusiast with a strong passion for AI, cybersecurity, and blockchain.<br>
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### • Programming Languages:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
@@ -11,14 +11,12 @@ A Deep learning enthusiast with a strong passion for AI, cybersecurity, and bloc
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-000000.svg?style=flat&logo=nvidia&logoColor=green)
 
----
 
 ### • Deep Learning Frameworks:
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 
----
 
 ### • Machine Learning Libraries:
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
@@ -26,7 +24,6 @@ A Deep learning enthusiast with a strong passion for AI, cybersecurity, and bloc
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 
----
 
 ### • Full Stack Development:
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -43,21 +40,20 @@ A Deep learning enthusiast with a strong passion for AI, cybersecurity, and bloc
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
----
+
 
 ### • Blockchain and Web3:
 ![Remix](https://img.shields.io/badge/Remix-%23000.svg?style=flat&logo=remix&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3.js&logoColor=white)
 
----
+
 
 ### • Big Data:
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
----
 
 ### • Tools and Others:
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
