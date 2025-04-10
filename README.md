@@ -1,9 +1,6 @@
 # Hi, I'm Manohar 👋🏼
 A Deep learning enthusiast with a strong passion for AI, cybersecurity, and blockchain.<br>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manohar3000) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manohargehlot3000@gmail.com) 
-
 # 💻 Tech Stack
 
 ### • Programming Languages:
@@ -65,3 +62,6 @@ A Deep learning enthusiast with a strong passion for AI, cybersecurity, and bloc
 ### • Tools and Others:
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manohar3000) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manohargehlot3000@gmail.com) 
