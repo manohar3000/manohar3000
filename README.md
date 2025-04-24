@@ -1,5 +1,5 @@
 # Hi, I'm Manohar 👋🏼
-A Deep learning enthusiast with a strong passion for AI, cybersecurity, and blockchain.<br>
+A deep learning and Web3 enthusiast with hands-on experience in computer vision, reinforcement learning, full-stack development, and decentralized technologies. Passionate about solving real-world problems, exploring emerging tech, and contributing to open-source and community-driven innovation.<br>
 
 ## 💻 Tech Stack
 
