@@ -66,9 +66,7 @@ A deep learning and Web3 enthusiast with hands-on experience in computer vision,
 
 ## 📊 GitHub Stats:
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=manohar3000&theme=default&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  
+    
   <img src="https://nirzak-streak-stats.vercel.app/?user=manohar3000&theme=default&hide_border=false" /><br/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manohar3000&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
