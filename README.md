@@ -1,6 +1,9 @@
 # Hi, I'm Manohar 👋🏼
 A deep learning and Web3 enthusiast with hands-on experience in computer vision, reinforcement learning, full-stack development, and decentralized technologies. Passionate about solving real-world problems, exploring emerging tech, and contributing to open-source and community-driven innovation.<br>
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manohar3000) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manohargehlot3000@gmail.com) 
+
 ## 💻 Tech Stack
 
 ### • Programming Languages:
@@ -59,5 +62,15 @@ A deep learning and Web3 enthusiast with hands-on experience in computer vision,
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manohar3000) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manohargehlot3000@gmail.com) 
+
+
+## 📊 GitHub Stats:
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=manohar3000&theme=default&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  
+  <img src="https://nirzak-streak-stats.vercel.app/?user=manohar3000&theme=default&hide_border=false" /><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manohar3000&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  
+</div>
