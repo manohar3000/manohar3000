@@ -1,8 +1,19 @@
-# Hi, I'm Manohar 👋🏼
-A deep learning and Web3 enthusiast with hands-on experience in computer vision, reinforcement learning, full-stack development, and decentralized technologies. Passionate about solving real-world problems, exploring emerging tech, and contributing to open-source and community-driven innovation.<br>
+<div id="header" align="center">
+  <img src="https://github.com/user-attachments/assets/e46522a8-8c54-4cb2-8da5-10ea291b8bfb" width="100"/>
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manohar3000) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manohargehlot3000@gmail.com) 
+<p align="center">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/manohar3000">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:manohargehlot3000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<h1 align="center">Hi 👋, Myself Manohar Gehlot</h1>
+
+A deep learning and Web3 enthusiast with hands-on experience in computer vision, reinforcement learning, full-stack development, and decentralized technologies. Passionate about solving real-world problems, exploring emerging tech, and contributing to open-source and community-driven innovation.<br>
 
 ## 💻 Tech Stack
 
@@ -72,3 +83,5 @@ A deep learning and Web3 enthusiast with hands-on experience in computer vision,
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manohar3000&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
   
 </div>
+
+![Manohar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manohar3000&days=35&bg_color=0c1014&color=268f77&line=268f77&point=268f77&area=true&hide_border=true)
