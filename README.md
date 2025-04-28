@@ -9,9 +9,13 @@
   <a href="mailto:manohargehlot3000@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://manohar3000.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2" alt="Email" />
+  </a>
 </p>
 
-<h1 align="center">Hi 👋, Myself Manohar Gehlot</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+Myself+Manohar+Gehlot" alt="Typing SVG" /></div>
 
 A deep learning and Web3 enthusiast with hands-on experience in computer vision, reinforcement learning, full-stack development, and decentralized technologies. Passionate about solving real-world problems, exploring emerging tech, and contributing to open-source and community-driven innovation.<br>
 
